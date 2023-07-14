@@ -17,3 +17,8 @@ console.log('Hello' + ' ' + 'World');
 
 // Properties
 console.log('Teaching the world how to code'.length);
+
+//Methods
+console.log('Codecademy'.toUpperCase());
+console.log('    Remove whitespace    '.trim());
+
