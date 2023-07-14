@@ -13,3 +13,7 @@ console.log(11 % 3);
 // String Concatenation
 console.log('Hello' + 'World');
 console.log('Hello' + ' ' + 'World');
+
+
+// Properties
+console.log('Teaching the world how to code'.length);
